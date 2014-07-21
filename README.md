@@ -24,6 +24,12 @@ Acknowledgments and attribution
  
 License
 -------
+*Creative Commons Attribution-NonCommercial 3.0*
 See [LICENSE](./LICENSE) file.
+
+
+----------
+
+
 &copy; 2014 Alina Gorbatova, Yuri Baranov, Russian translation
  
