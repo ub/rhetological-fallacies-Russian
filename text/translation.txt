@@ -3,21 +3,21 @@
 Using evidence from an unnamed 'expert' or 'study' or generalized group (like 'scientists') to claim something is true.
 Использование свидетельства неназванного "эксперта" или "исследования" обобщённой группы (такой как "учёные") для заявления об истинности утверждения.
 "They say that it takes 7 years to digest chewing gum."
-"Они говорят, что жвачка переваривается 7 лет."
+"Утверждают, что жевачка переваривается 7 лет."
 
 - Appeal to Authority
 -- Ссылка на авторитет
 Claiming something is true because an unqualified or untrustworthy 'expert' says it is.
 Утверждение, что что-то правда, поскольку некий неквалифицированный или недобросовестный "эксперт" говорит, что это так.
 "Over 400 prominent scientifists and engineers dispute global warming."
-"Более 400 выдающихся учёных и инженеров отрицают глобальное потепление."
+"Более 400 выдающихся учёных и инженеров оспаривают глобальное потепление."
 
 - Appeal to Common Practice
 -- Ссылка на обычную практику
 Claiming something is true because it's commonly practiced.
 Утверждение, что нечто правильно, поскольку оно является обычным делом.
 "This bank has some problems with corruption. But there's nothing going on here that doesn't go on in all the other banks."
-"Этот банк имеет некоторые проблемы с коррупцией. Но тут не происходит ничего такого, что не происходит во всех остальных банках."
+"У этого банка проблемы с коррупцией. Но в нем не происходит ничего такого, чего бы не было и во всех остальных банках."
 
 - Appeal to Ignorance
 -- Аргументация незнанием
@@ -29,9 +29,9 @@ A claim is true simply because it has not been proven false (or false because it
 - Appeal to Incredulity
 -- Аргументация невероятностью
 Because a claim sounds unbelievable, it must not be true.
-Утверждение, что если нечто звучит невероятно, то оно ложно.
+Поскольку утверждение звучит невероятно, оно не может быть истинным.
 "The eye is an incredibly complex biomechanical machine with thousands of interlocking parts. How could that exist without an intelligent designer?"
-"Глаз - это невероятно сложная биомеханическая машина с тысячами взаимосвязанных частей. Как же она может существовать без разумного творца?"
+"Глаз - это невероятно сложная биомеханическая машина с тысячами взаимосвязанных частей. Как это может возникнуть без разумного творца?"
 
 - Appeal to Money
 -- Аргументация от денег
@@ -80,39 +80,40 @@ Arguing a belief is false because it implies something you'd rather not believe.
 An argument is made by increasing fear and prejudice towards the opposing side.
 Аргумент, вызывающий страх и предубеждение по отношению к противоположному мнению.
 "Before you know it there will be more mosques than churches."
-"Прежде, чем вы об этом узнаете, мечетей станет больше, чем церквей."
+"Не успеете оглянуться, как мечетей станет больше, чем церквей."
 
 - Appeal to Flattery
 -- Апелляция к лести
 Using an irrelevant compliment to slip in an unfounded claim which is accepted along with the compliment.
-Использование нерелевантного комплимента для сообщения недоказанного утверждения, которое принимается вместе с комплиментом.
+Использование нерелевантного комплимента для проталкивания(?) недоказанного утверждения, которое принимается вместе с комплиментом.
 "Intelligent and sophisticated readers will of course recognise a fallacy like this when they read one."
-"Умные и интеллигентные читатели, несомненно, распознают аргумент вроде этого, когда они его прочитают."
+"Умные и интеллигентные читатели, несомненно, распознают ошибочный аргумент такого рода, когда встретятся с ним."
 
 - Appeal to Nature
 -- Апелляция к природе
 Making your claim seem more true by drawing a comparison with the "good" natural world.
 Добавление аргументу правдоподобности при помощи сравнения с "хорошим" миром природы.
-"В природе нет ГМО, значит ГМО есть вредно."
+"В природе нет ГМО, значит ГМО вредно."
 
 - Appeal to Pity
 -- Апелляция к жалости
 Attempt to induce pity to sway opponents.
 Попытка вызвать жалость, чтобы повлиять на оппонентов.
 "The former dictator is an old, dying man. It's wrong to make him stand trial for these alleged offenses."
-"Бывший диктатор - старый умирающий человек. Неправильно будет отдавать его под суд за его предполагаемые преступления."
+"Бывший диктатор - больной старик. Негуманно подвергать его суду за предполагаемые деяния."
 
 - Appeal to Ridicule
 -- Высмеивание
 Presenting the opponent's argumnent in a way that makes it appear absurd.
-Представление аргумента оппонента таким способом, чтобы он выглядел абсурдным.
+Представление аргумента оппонента в абсурдном свете.
 "Faith in God is like believing in Santa Claus and the Tooth Fairy."
 "Верить в Бога - это всё равно что верить в Санта-Клауса и Зубную Фею."
 
 - Appeal to Spite
 -- Апелляция к злобе
 Dismissing a claim by appealing to personal bias against the claimant.
-Отрицание утверждения, пользуясь плохим отношением собеседника к тому, кто сделал утверждение.
+Отвержение утверждения, апеллируя к предубеждению собеседника против тех, кто 
+его высказал.
 "Don't your just hate how those rich Liberal Hollywood actors go on TV to promote their agendas?"
 "Не испытываете ли вы ненависть к этим богатым буржуям, проповедующим свои либеральные идеи?"
 
@@ -152,7 +153,7 @@ Assuming that because something is nicely designed or beautifully visualized it'
 - Gambler's Fallacy
 -- Ошибка игрока
 Assuming the history of outcomes will affect future outcomes.
-Предположение, что предыдущие исходы эксперимента повлияют на последующие.
+Предположение, что предыдущие результаты повлияют на последующие.
 "I've flipped this coin 10 times in a row, and it's been heads. Therefore the next coin flip is more likely to come up tails."
 "Я подбросил эту монетку 10 раз, и все 10 раз выпал орёл. Значит при следующем броске скорее всего будет решка."
 
@@ -161,14 +162,14 @@ Assuming the history of outcomes will affect future outcomes.
 Drawing a general conclusion from a tiny sample.
 Создание обобщённого вывода на основе маленькой выборки.
 "I just cut off by the woman driver in front. Women can't drive."
-"Меня только что чуть не сбила женщина за рулём. Женщины не умеют водить."
+"Меня только что подрезала женщина, ехавшая передо мной. Женщины не умеют водить."
 
 - Jumping to Conclusions
 -- Поспешный вывод
 Drawing a quick conclusion without fairly considering relevant (and easily avaliable) evidence.
 Быстрый переход к заключению без рассмотрения релевантных и легкодоступных доказательств.
 "She wants birth control in her medical coverage? What a slut!"
-"С ним на корпоративе была какая-то женщина? Он мне изменяет!"
+"С ним на корпоративе была какая-то женщина? Он мне изменяет!" ~~~~~~~~~~
 
 - Middle Ground
 -- Истина всегда посередине
@@ -180,7 +181,7 @@ Assuming because two opposing arguments have merit, the answer must lie somewher
 - Perfectionist Fallacy
 -- Перфекционистское заблуждение
 Assuming that the only option on the table is perfect success, then rejecting anything that will not work perfectly.
-Предположение, что единственным приемлемым результатом является идеальный, и отвержение всего, что работает не идеально.
+Предположить, что единственным приемлемым результатом является идеальный, и отвегнуть  все, что работает не идеально.
 "What's the point of this anti-drunk driving campaign? People are still going to drink and drive no matter what."
 "Зачем нужна эта кампания против пьянства за рулём? Люди всё равно будут ездить пьяными, несмотря ни на что."
 
@@ -214,16 +215,16 @@ Assuming because two things share a property, that makes them the same thing.
 - Ad Hoc Rescue
 -- Спасение своего убеждения
 Trying to save a cherished belief by repeatedly revising the argument to explain away problems.
-Попытка спасти любимое убеждение, перепроверяя аргументы и указывая на отдалённые проблемы.
+Попытка спасти любимое убеждение, пересматривая аргументы чтобы обяснить любые нестыковки.
 "...But apart from better sanitation, medicine, education, irrigation, public health, roads, a freshwater system and public order... what have the Romans done for us?"
-"...Но помимо лучшей санитарии, медицины, образования, ирригации, публичного здравоохранения, дорог, систем доставки воды и публичного права... что эти римляне сделали для нас?"
+"...Но помимо лучшей санитарии, медицины, образования, ирригации, публичного здравоохранения, дорог, систем доставки воды и общественного... что эти римляне сделали для нас?"
 
 - Begging the Question
 -- Предвосхищение основания
 Making a claim while leaving out one or more major contributing factors that may affect the conclusion.
 Приход к заключению без учёта одного или нескольких существенных факторов, которые могли бы повлиять на заключение.
 "If we label food with warning labels, it will encourage people to eat more healthily."
-"Если мы пометим еду предупреждающими знаками, это будет стимулировать людей есть здоровую пищу."
+"Если мы пометим еду предупреждающими этикетками, люди будут охотнее есть здоровую пищу."
 
 - Biased Generalizing
 -- Смещённая выборка
@@ -242,7 +243,7 @@ Cherry-picking evidence that supports your idea while ignoring contradicting evi
 - False Dilemma
 -- Мнимая дилемма
 Presenting two options as the only two options while hiding alternatives.
-Представление двух опций как дилеммы, скрывая альтернативные варианты.
+Представление только двух вариантов в форме дилеммы, скрывая другие альтернативы.
 "We're going to have to cut the education budget or go deeper into debt. We can't afford to go deeper into debt. So we'll have to cut the education budget."
 "Мы либо должны урезать бюджет на образование, либо влезть в ещё больший долг. Мы не можем себе позволить влезать в ещё большие долги, поэтому нам следует урезать бюджет на образование."
 
@@ -263,14 +264,15 @@ Describing an occurence in vivid detail, even if it is a rare occurence, to conv
 - Red Herring
 -- Отвлекающий манёвр
 Introducing irrelevant material to the argument to distract and lead towards a different conclusion.
-Предоставление нерелевантного материала к аргументу для отвлечения, чтобы подтолкнуть к другому заключению.
+Предоставление нерелевантного материала в споре, чтобы отвлечь и подтолкнуть оппонента к другому заключению.
 "The Senator needn't account for irregularities in his expenses. After all, there are other senators who have done far worse things."
-"Сенатора не нужно штрафовать за нецелевые расходы. В конце концов, есть другие сенаторы, которые делают гораздо более плохие вещи."
+"Сенатора не нужно штрафовать за нецелевые расходы. В конце концов, есть другие сенаторы, которые совершали намного худшие поступки."
 
 - Slippery Slope
 -- Наклонная плоскость
 Assuming a relatively small first step will inevitably lead to a chain of related (negative) events.
-Заявление, что небольшой первый шаг неизбежно приведёт к цепочке последовательных негативных событий.
+Заявление, что небольшой первый шаг неизбежно приведёт к цепочке (неприятных)
+последствий.
 "If we legalize marijuana, more people will start using crack and heroin. Then we'd have to legalize those too."
 "Если мы легализуем марихуану, больше людей начнут употреблять кокаин и героин. Тогда нам придётся легализовать и их тоже."
 
