@@ -243,12 +243,12 @@ Generalizing from an unrepresentative sample to increase the strength of your ar
 Cherry-picking evidence that supports your idea while ignoring contradicting evidence.
 Выбор свидетельств в пользу своей идеи и игнорирование опровергающих свидетельств.
 "It's obvious 9-11 was a American-government led conspiracy to justify war in Iraq and Afghanistan. No plane hit the Pentagon. The Twin Towers collapse was a controlled demolition... etc"
-"Это же очевидно, что теракты 11 сентября были заговором американского правительства с целью развязать войну в Ираке и Афганистане. В Пентагон не врезался самолёт. Башни-близнецы были взорваны динамитом... и т.д."
+"Очевидно, что теракты 11 сентября были заговором американского правительства с целью развязать войну в Ираке и Афганистане. В Пентагон не врезался самолёт. Башни-близнецы были взорваны динамитом... и т.д."
 
 - False Dilemma
 -- Мнимая дилемма
 Presenting two options as the only two options while hiding alternatives.
-Представление только двух вариантов в форме дилеммы, скрывая другие альтернативы.
+Представление только двух вариантов в форме дилеммы, без указания других альтернатив.
 "We're going to have to cut the education budget or go deeper into debt. We can't afford to go deeper into debt. So we'll have to cut the education budget."
 "Мы либо должны урезать бюджет на образование, либо увеличить наш долг. Мы не можем себе позволить влезать в ещё большие долги, поэтому нам следует урезать бюджет на образование."
 
