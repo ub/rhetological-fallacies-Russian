@@ -275,7 +275,7 @@
 "I'm going to carry on smoking. My grandfather smoked 40 a day and he lived until he was 90!"</p>
 </td>
 <td>
- **Исключено, так как сильно похоже на Hasty Generalisation**
+<strong>Исключено, так как сильно похоже на Hasty Generalisation</strong>
 <h3> Анекдотическое свидетельство</h3>
 </td>
   <td>
@@ -423,7 +423,7 @@
 "This large shoe manufacturer employs children in sweatshops. Therefore all shoe companies are evil child-slave owners!"</p>
 </td>
 <td>
- **Исключено, так как сильно похоже на Hasty Generalisation**
+<strong>Исключено, так как сильно похоже на Hasty Generalisation</strong>
 <h3> Прожектор</h3>
 </td>
   <td>
@@ -602,7 +602,7 @@
 "The Iraqi regime possesses and produces chemical and biological weapons. It is seeking nuclear weapons."</p>
 </td>
 <td>
- **Исключено, так как сильно похоже на Begging the Question и Jumping to Conclusions**
+<strong>Исключено, так как сильно похоже на Begging the Question и Jumping to Conclusions</strong>
 <h3> Игнорирование свидетельств</h3>
 </td>
   <td>
@@ -631,7 +631,7 @@
 "Marriage often results in the burth of children. So that's reason why it exists."</p>
 </td>
 <td>
- **Исключено, так как сильно похоже на Cum Hoc Ergo Propter Hoc и на Denying the Antecedent**
+<strong>Исключено, так как сильно похоже на Cum Hoc Ergo Propter Hoc и на Denying the Antecedent</strong>
 <h3> Подтверждение консеквента</h3>
 </td>
   <td>
