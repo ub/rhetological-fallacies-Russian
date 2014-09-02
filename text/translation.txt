@@ -3,7 +3,7 @@
 Using evidence from an unnamed 'expert' or 'study' or generalized group (like 'scientists') to claim something is true.
 Использование свидетельства неназванного "эксперта" или "исследования" обобщённой группы (такой как "учёные") для заявления об истинности утверждения.
 "They say that it takes 7 years to digest chewing gum."
-"Утверждают, что жевачка переваривается 7 лет."
+"Знающие люди утверждают, что жевачка переваривается 7 лет."
 
 - Appeal to Authority
 -- Ссылка на авторитет
@@ -17,14 +17,14 @@ Claiming something is true because an unqualified or untrustworthy 'expert' says
 Claiming something is true because it's commonly practiced.
 Утверждение, что нечто правильно, поскольку оно является обычным делом.
 "This bank has some problems with corruption. But there's nothing going on here that doesn't go on in all the other banks."
-"У этого банка проблемы с коррупцией. Но в нем не происходит ничего такого, чего бы не было и во всех остальных банках."
+"Да, у этого банка есть проблемы с коррупцией. Но мы не видим тут ничего такого, чего бы не наблюдалось и во всех остальных банках."
 
 - Appeal to Ignorance
 -- Аргументация незнанием
 A claim is true simply because it has not been proven false (or false because it has not been proven true).
 Утверждение, что нечто истинно, поскольку не доказано, что оно ложно (или ложно, поскольку не доказано, что оно истинно).
 "Nobody has proved to me there is a God. So there is no God."
-"Никто не доказал мне, что есть Бог. Следовательно, Бога нет."
+"Никто не доказал мне, что есть Бог. Значит, Бога нет."
 
 - Appeal to Incredulity
 -- Аргументация невероятностью
@@ -66,14 +66,14 @@ Assuming because something could happen, it will inevitably happen.
 Claiming something is true because it's (apparently) always been that way.
 Утверждение, что нечто правильно, поскольку это всегда происходило таким образом.
 "Marriage is the union between man and woman. Therefore gay marriage is wrong."
-"Брак - это союз между мужчиной и женщиной. Значит однополый брак - это неправильно."
+"Брак - это союз между мужчиной и женщиной. Значит, однополый брак - это неправильно."
 
 - Appeal to Consequences of a Belief
 -- Апелляция к последствиям
 Arguing a belief is false because it implies something you'd rather not believe.
 Аргумент, что утверждение ложно, поскольку из него следует то, во что не хочется верить.
 "That can't be the Senator on that sextape. If it were, he'd be lying about not knowing her. And he's not the kind of man who would lie."
-"На этом секс-видео точно не сенатор. Если бы это был он, значит его слова, что он её не знает, были бы ложью. А он не из тех людей, кто будет лгать."
+"На этом секс-видео точно не сенатор. Если бы это был действительно он, тогда его утверждения, что он не знаком с этой женщиной, оказались бы ложью. А он не из тех людей, кто будет лгать."
 
 - Appeal to Fear
 -- Апелляция к страху
@@ -87,7 +87,7 @@ An argument is made by increasing fear and prejudice towards the opposing side.
 Using an irrelevant compliment to slip in an unfounded claim which is accepted along with the compliment.
 Использование нерелевантного комплимента для проталкивания(?) недоказанного утверждения, которое принимается вместе с комплиментом.
 "Intelligent and sophisticated readers will of course recognise a fallacy like this when they read one."
-"Умные и интеллигентные читатели, несомненно, распознают ошибочный аргумент такого рода, когда встретятся с ним."
+"Умные и интеллигентные читатели, несомненно, сразу же распознают ошибочный аргумент такого рода"
 
 - Appeal to Nature
 -- Апелляция к природе
@@ -100,11 +100,11 @@ Making your claim seem more true by drawing a comparison with the "good" natural
 Attempt to induce pity to sway opponents.
 Попытка вызвать жалость, чтобы повлиять на оппонентов.
 "The former dictator is an old, dying man. It's wrong to make him stand trial for these alleged offenses."
-"Бывший диктатор - больной старик. Негуманно подвергать его суду за предполагаемые деяния."
+"Бывший диктатор - больной старик. Негуманно было бы подвергать его суду за деяния, в которых его обвиняют."
 
 - Appeal to Ridicule
 -- Высмеивание
-Presenting the opponent's argumnent in a way that makes it appear absurd.
+Presenting the opponent's argument in a way that makes it appear absurd.
 Представление аргумента оппонента в абсурдном свете.
 "Faith in God is like believing in Santa Claus and the Tooth Fairy."
 "Верить в Бога - это всё равно что верить в Санта-Клауса и Зубную Фею."
@@ -120,7 +120,7 @@ Dismissing a claim by appealing to personal bias against the claimant.
 - Appeal to Wishful Thinking
 -- Выдача желаемого за действительное
 Suggesting a claim is true or false just because you strongly hope it is.
-Предположение, что нечто является правдой или ложью лишь потому, что вы на это очень надеетесь.
+Предположение, что нечто является правдой или ложью лишь потому, что вам очень этого хочется.
 "The President wouldn't lie. He's our leader and a good American."
 "Давай поставим ва-банк. Сейчас-то нам уж точно повезёт!"
 
@@ -135,7 +135,7 @@ Suggesting a claim is true or false just because you strongly hope it is.
 Assuming that characteristics or beliefs of some or all of a group applies to the entire group.
 Предположение, что характеристики или убеждения кого-то из группы применимы ко всей группе.
 "Recent terrorist attacks have been carried out by radical Islamic groups. Therefore all terrorists are muslims."
-"Президент общества почвоведов сказал, что астрономия бесполезна. Значит почвоведы не любят астрономов."
+"Президент общества почвоведов сказал, что астрономия бесполезна. Значит, почвоведы не любят астрономов."
 
 - Division
 -- Ошибка разделения
@@ -167,23 +167,25 @@ Drawing a general conclusion from a tiny sample.
 - Jumping to Conclusions
 -- Поспешный вывод
 Drawing a quick conclusion without fairly considering relevant (and easily avaliable) evidence.
-Быстрый переход к заключению без рассмотрения релевантных и легкодоступных доказательств.
+Быстрый переход к заключению без должного рассмотрения релевантных и доступных доказательств.
 "She wants birth control in her medical coverage? What a slut!"
-"С ним на корпоративе была какая-то женщина? Он мне изменяет!" ~~~~~~~~~~
+"С ним на корпоративе была какая-то женщина? Он мне изменяет!"
 
 - Middle Ground
 -- Истина всегда посередине
 Assuming because two opposing arguments have merit, the answer must lie somewhere between them.
-Предположение, что так как два противоположных аргумента имеют вес, правильное решение должно лежать посередине между ними.
+Поскольку два противоположных аргумента имеют вес, правильное решение должно лежать посередине между ними.
 "I rear ended your car but I don't think I should pay for the damage. You think I should pay for all the damage. A fair compromise would be to split the bill in half."
-"Я помял твою машину, но я не считаю, что должен платить за ущерб. Ты считаешь, что я должен выплатить весь ущерб. Честным компромиссом будет, если я заплачу половину."
+"Я помял твою машину, но не считаю, что должен тебе платить. Ты считаешь, что я должен выплатить весь ущерб.
+Честным компромиссом будет, если я заплачу половину."
 
 - Perfectionist Fallacy
 -- Перфекционистское заблуждение
 Assuming that the only option on the table is perfect success, then rejecting anything that will not work perfectly.
-Предположить, что единственным приемлемым результатом является идеальный, и отвегнуть  все, что работает не идеально.
+Предположить, что единственным приемлемым результатом может быть лишь идеальный вариант, и отвегнуть  все, что работает не идеально.
 "What's the point of this anti-drunk driving campaign? People are still going to drink and drive no matter what."
-"Зачем нужна эта кампания против пьянства за рулём? Люди всё равно будут ездить пьяными, несмотря ни на что."
+"Зачем нужна эта кампания против пьянства за рулём? Люди всё равно будут водить автомобили в нетрезвом виде,
+несмотря ни на что."
 
 - Relativist Fallacy
 -- Релятивистское заблуждение
@@ -191,10 +193,13 @@ Rejecting a claim because of a belief that truth is relative to a person or grou
 Отрицание утверждения из-за веры, что истина является относительной для человека или группы.
 "That's perhaps true for you. But it's not true for me."
 "Возможно, для тебя Бога не существует. А для меня он есть."
+Одной, стерильной правды не существует. Своя
+правда у немцев, американцев, русских, украинцев. У всех есть
+какая-то своя правда
 
 #################### Исключено, так как сильно похоже на Hasty Generalisation
 ########## - Spotlight
-########## -- Прожектор
+########## -- Прожектор (В фокусе)
 ########## Assuming an observation from a small sample size applies to an entire group.
 ########## "This large shoe manufacturer employs children in sweatshops. Therefore all shoe companies are evil child-slave owners!"
 
@@ -206,7 +211,7 @@ Applying a general rule too broadly.
 "Деньги не берутся ниоткуда и не исчезают в никуда, закон сохранения массы!"
 
 - Undistributed Middle
--- Нераспределённая средняя посылка
+-- Нераспределённый средний термин
 Assuming because two things share a property, that makes them the same thing.
 Заявление, что если у двух вещей есть общее свойство, значит они являются одним и тем же.
 "A theory can mean an unproven idea. Scientists use the term evolutionary theory. Therefore evolution is an unproven idea."
@@ -217,7 +222,7 @@ Assuming because two things share a property, that makes them the same thing.
 Trying to save a cherished belief by repeatedly revising the argument to explain away problems.
 Попытка спасти любимое убеждение, пересматривая аргументы чтобы обяснить любые нестыковки.
 "...But apart from better sanitation, medicine, education, irrigation, public health, roads, a freshwater system and public order... what have the Romans done for us?"
-"...Но помимо лучшей санитарии, медицины, образования, ирригации, публичного здравоохранения, дорог, систем доставки воды и общественного... что эти римляне сделали для нас?"
+"...Но помимо улучшения санитарии, медицины, образования, ирригации,  здравоохранения, дорог, водопровода и общественного порядка... что эти римляне сделали для нас?"
 
 - Begging the Question
 -- Предвосхищение основания
@@ -228,7 +233,7 @@ Making a claim while leaving out one or more major contributing factors that may
 
 - Biased Generalizing
 -- Смещённая выборка
-Generalizing from an unpresentative sample to increase the strength of your argument.
+Generalizing from an unrepresentative sample to increase the strength of your argument.
 Обобщение непредставительной выборки для усиления своего аргумента.
 "Our website poll found that 90% of internet users oppose online piracy laws."
 "Мы провели опрос на нашем сайте и выяснили, что 90% пользователей интернета выступают против законов о пиратстве."
@@ -237,7 +242,7 @@ Generalizing from an unpresentative sample to increase the strength of your argu
 -- Ошибка подтверждения
 Cherry-picking evidence that supports your idea while ignoring contradicting evidence.
 Выбор свидетельств в пользу своей идеи и игнорирование опровергающих свидетельств.
-"It's obvious 9-11 was a American-goverment led conspiracy to justify war in Iraq and Afghanistan. No plane hit the Pentagon. The Twin Towers collapse was a controlled demolition... etc"
+"It's obvious 9-11 was a American-government led conspiracy to justify war in Iraq and Afghanistan. No plane hit the Pentagon. The Twin Towers collapse was a controlled demolition... etc"
 "Это же очевидно, что теракты 11 сентября были заговором американского правительства с целью развязать войну в Ираке и Афганистане. В Пентагон не врезался самолёт. Башни-близнецы были взорваны динамитом... и т.д."
 
 - False Dilemma
@@ -245,7 +250,7 @@ Cherry-picking evidence that supports your idea while ignoring contradicting evi
 Presenting two options as the only two options while hiding alternatives.
 Представление только двух вариантов в форме дилеммы, скрывая другие альтернативы.
 "We're going to have to cut the education budget or go deeper into debt. We can't afford to go deeper into debt. So we'll have to cut the education budget."
-"Мы либо должны урезать бюджет на образование, либо влезть в ещё больший долг. Мы не можем себе позволить влезать в ещё большие долги, поэтому нам следует урезать бюджет на образование."
+"Мы либо должны урезать бюджет на образование, либо увеличить наш долг. Мы не можем себе позволить влезать в ещё большие долги, поэтому нам следует урезать бюджет на образование."
 
 - Lie
 -- Ложь
@@ -256,7 +261,7 @@ An outright untruth repeated knowingly as a fact.
 
 - Misleading Vividness
 -- Обманчивая живописность
-Describing an occurence in vivid detail, even if it is a rare occurence, to convince someone that it is a problem.
+Describing an occurrence in vivid detail, even if it is a rare occurrence, to convince someone that it is a problem.
 Описание события в живописных деталях, даже если это редкое событие, чтобы убедить собеседника, что это проблема.
 "After a court decision to legalise gay marriage, school libraries were required to stock same-sex literature; primary schoolchildren were given homosexual fairy stories and even manuals of explicit homosexual advocacy."
 "На туриста в Египте напала ужасная гигантская акула и откусила ему ногу! И это на глазах у тысячи людей, которые видели всё это и ничем не могли помочь! Как мы можем себе позволить пускать туристов в такие жуткие места?"
@@ -266,7 +271,7 @@ Describing an occurence in vivid detail, even if it is a rare occurence, to conv
 Introducing irrelevant material to the argument to distract and lead towards a different conclusion.
 Предоставление нерелевантного материала в споре, чтобы отвлечь и подтолкнуть оппонента к другому заключению.
 "The Senator needn't account for irregularities in his expenses. After all, there are other senators who have done far worse things."
-"Сенатора не нужно штрафовать за нецелевые расходы. В конце концов, есть другие сенаторы, которые совершали намного худшие поступки."
+"Сенатора не нужно наказывать за нецелевые расходы. В конце концов, есть другие сенаторы, которые совершали намного худшие поступки."
 
 - Slippery Slope
 -- Наклонная плоскость
@@ -279,21 +284,21 @@ Assuming a relatively small first step will inevitably lead to a chain of relate
 #################### Исключено, так как сильно похоже на Begging the Question и Jumping to Conclusions
 ########## - Suppressed Evidence
 ########## -- Игнорирование свидетельств
-########## Intentionally failing to use significant and relevant informantion which counts against one's own conclusion.
+########## Intentionally failing to use significant and relevant information which counts against one's own conclusion.
 ########## "The Iraqi regime possesses and produces chemical and biological weapons. It is seeking nuclear weapons."
 
-- Unfalsifability
+- Unfalsifiability
 -- Нефальсифицируемость
 Offering a claim that cannot be proven false, because there is no way to check if it is false or not.
 Высказывание, которое не может быть опровергнуто из-за того, что нет способа проверить, является оно ложным или нет.
 "He lied because he's possessed by demons."
-"Он солгал из-за того, что в него вселился бес."
+"Он лгал из-за того, что в него вселились бесы."
 
 #################### Исключено, так как сильно похоже на Cum Hoc Ergo Propter Hoc и на Denying the Antecedent
 ########## - Affirming the Consequent
 ########## -- Подтверждение консеквента
 ########## Assuming there's only one explanation for the observation you're making.
-########## "Marriage often results in the burth of children. So that's reason why it exists."
+########## "Marriage often results in the birth of children. So that's reason why it exists."
 
 - Circular Logic
 -- Порочный круг
@@ -307,12 +312,12 @@ A conclusion is derived from a premise based on the conclusion.
 Claiming two events that occur together must have a cause-and-effect relationship. (Correlation = cause)
 Утверждение, что если между двумя вещами есть корреляция, то они являются причиной и следствием.
 "Teenagers in gangs listen to rap music with violent themes. Rap music inspires violence in teenagers."
-"Гопники часто слушают рэп с темами насилия. Значит рэп провоцирует подростков на насилие."
+"Гопники часто слушают рэп в котором рассказывается про насилие. Значит, рэп провоцирует подростков на насилие."
 
 - Denying the Antecedent
--- Игнорирование других причин
+-- Отрицание антецедента
 There isn't only one explanation for an outcome. So it's false to assume the cause based on the effect.
-Утверждение, что у результата есть лишь одна причина, и если её убрать, то результат не получится.
+Результат может иметь более одного объяснения. Поэтому неправомочно преполагать причину, основываясь на следствии.
 "If you get a degree, you'll get a good job. If you don't get a degree, you won't get a good job."
 "Если ты защитишь диплом, то найдёшь хорошую работу. Если нет - не найдёшь хорошую работу."
 
@@ -326,7 +331,7 @@ Claiming one event must have caused the other when a third (unlooked for) event 
 - Post Hoc Ergo Propter Hoc
 -- После - значит вследствие
 Claiming that because one event followed another, it was also caused by it.
-Утверждение, что если оно событие последовало за другим, значит оно было его следствием.
+Утверждение, что если одно событие последовало за другим, значит последующее было следствием предыдущего.
 "Since the election of the President more people than ever are unemployed. Therefore the President has damaged the economy."
 "С момента выборов президента сильно выросла безработица. Следовательно, президент нанёс ущерб экономике."
 
@@ -354,16 +359,16 @@ I don't need to prove my claim - you must prove it is false.
 - Circumstance Ad Hominem
 -- Аргумент к личным обстоятельствам
 Starting a claim isn't credible only because of the advocate's interests in their claim.
-Заявление, что утверждение недостойно рассмотрения, поскольку оно защищает интересы своего автора.
+Заявление, что утверждение недостойно рассмотрения, поскольку оно защищает интересы своего пропонента.
 "A study into the health risks of mobile phone involved mobile phone companies. Therefore, the study cannot be trusted."
 "В исследовании об опасности мобильных телефонов для здоровья участвовали операторы связи. Следовательно, результатам исследования нельзя верить."
 
 - Genetic Fallacy
--- Атака на источник
+-- Генетическая ошибка (ошибка происхождения)
 Attacking the cause or origin of a claim, rather than its substance.
 Атака на причину или источник высказывания, а не на его суть.
 "Of course, mainstream liberal media aren't going to say Barack Obama is a Muslim."
-"Да, я читал это в жёлтой прессе. Это определённо ложь."
+"Да, я читал об этом в жёлтой прессе. Это определённо ложь."
 
 - Guilt by Association
 -- Вина по ассоциации
@@ -375,11 +380,11 @@ Discrediting an idea or claim by associating it with an undesirable person or gr
 - Straw Man
 -- Соломенное чучело
 Creating a distorted or simplified caricature of your opponent's argument, and then arguing against that.
-Создание искажённой или упрощённой каррикатуры на аргумент оппонента и аргументация против этой каррикатуры.
+Создание искажённой или упрощённой карикатуры на аргумент оппонента и аргументация против этой карикатуры.
 "You say Israel should stop building settlements on the West Bank in violation of treaty. So you're saying Israel doesn't have the right to be a nation?"
 "Вы говорите, что Израиль должен прекратить строить поселения на Западном берегу в нарушение договора. Стало быть, вы утверждаете, что Израиль не имеет права быть нацией?"
 
 - Zero
 -- Зеро
-В этом раунде нужно сказать утверждение, не содержащее софизмов.
+В этом раунде нужно высказать утверждение, не содержащее софизмов.
 "Вымирание динозавров из-за атаки пришельцев маловероятно, так свидетельства в пользу других гипотез о причинах вымирания значительно сильнее и лучше подтверждены."
