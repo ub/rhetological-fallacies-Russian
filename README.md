@@ -13,6 +13,35 @@ Translators
 
 Contributors are welcome!
 
+Как помочь с переводом
+----------------------
+
+См. также раздел "Текстовые версии" ниже.
+
+Для помощи по доработке перевода не нужны навыки работы с git или github-клиентом. Достаточно зарегистрироваться
+на github.
+
+Все проблемы с переводом категоризованы следующими хэштегами ( в порядке убывания приоритетности)
+
+1. Нет/неудовлетворительный перевод названия -- [`#title`](https://github.com/ub/rhetological-fallacies-Russian/labels/title)
+2. Нет перевода описания/примера -- [`#descr`](https://github.com/ub/rhetological-fallacies-Russian/labels/descr)
+3. Мета:  сравнение псевдоаргументов, исключение из игры из-за трудноотличимости -- [`#meta`](https://github.com/ub/rhetological-fallacies-Russian/labels/meta)
+4. Неудачный пример в переводе -- [`#badexample`](https://github.com/ub/rhetological-fallacies-Russian/labels/badexample)
+5. Ошибка/неточность/неудачный пример в оригинале -- [`#orig`](https://github.com/ub/rhetological-fallacies-Russian/labels/orig)
+6. Требуется стилистическая правка русского текста -- [`#refine`](https://github.com/ub/rhetological-fallacies-Russian/labels/refine)
+7. Неоригинальный пример в переводе -- [`#nonliteral`](https://github.com/ub/rhetological-fallacies-Russian/labels/nonliteral)
+
+
+0. Зарегистрироваться на github.com, если еще не
+1. Выбрать категорию по хэштегу, посмотреть  проблемы в этой категории. В категории `#meta` остаются открытые
+философские/терминологические вопросы -- по ним можно высказать дискуссионное мнение
+2. Выбрать незакрытую проблему и посмотреть текущий материал в файле
+[`translation.txt`](https://github.com/ub/rhetological-fallacies-Russian/blob/master/text/translation.txt)
+3. Предложить свой вариант перевода или высказать свое мнение в комментарии к теме
+
+Полный список проблем с переводами fallacies перечислен в разделе [issues](https://github.com/ub/rhetological-fallacies-Russian/issues)
+
+
 Текстовые версии
 ----------------
 
@@ -22,6 +51,7 @@ Contributors are welcome!
 * `text/annotated-translation-table.md` -- примечания к спорным моментам перевода и/или использования в игре. Переводы
   в этом файле необязательно в последней редакции, они даны чисто для справки. Если вам бросилась в глаза какая-то
   неточность, проверьте, присутствует ли она в файле `translation.txt`.
+
 
 Структура графического файла
 ----------------------------
