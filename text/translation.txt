@@ -305,7 +305,8 @@ Offering a claim that cannot be proven false, because there is no way to check i
 A conclusion is derived from a premise based on the conclusion.
 Заключение, основанное на предпосылке, основанной на заключении.
 "Stripping privacy rights only matters to those with something to hide. You must have something to hide if you oppose privacy protection."
-"Урезание прав на частную жизнь повлияет только на тех, кому есть что скрывать. У вас точно есть, что скрывать, если вы выступаете в защиту прав на частную жизнь."
+"Права на невмешательство в частную жизнь важны только для тех, кому есть что скрывать.
+Наверняка вам есть, что скрывать, если вы выступаете в защиту прав на частную жизнь."
 
 - Cum Hoc Ergo Propter Hoc
 -- Корреляция есть причина
