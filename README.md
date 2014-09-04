@@ -31,6 +31,7 @@ Contributors are welcome!
 6. Требуется стилистическая правка русского текста -- [`#refine`](https://github.com/ub/rhetological-fallacies-Russian/labels/refine)
 7. Неоригинальный пример в переводе -- [`#nonliteral`](https://github.com/ub/rhetological-fallacies-Russian/labels/nonliteral)
 
+Алгоритм действий:
 
 0. Зарегистрироваться на github.com, если еще не
 1. Выбрать категорию по хэштегу, посмотреть  проблемы в этой категории. В категории `#meta` остаются открытые
