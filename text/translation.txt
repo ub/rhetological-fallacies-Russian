@@ -8,9 +8,10 @@ Using evidence from an unnamed 'expert' or 'study' or generalized group (like 's
 - Appeal to Authority
 -- Ссылка на авторитет
 Claiming something is true because an unqualified or untrustworthy 'expert' says it is.
-Утверждение, что что-то правда, поскольку некий неквалифицированный или недобросовестный "эксперт" говорит, что это так.
+Утверждение истины некоего факта на основе высказываний неквалифицированного или недобросовестного "эксперта".
 "Over 400 prominent scientifists and engineers dispute global warming."
 "Более 400 выдающихся учёных и инженеров оспаривают глобальное потепление."
+
 
 - Appeal to Common Practice
 -- Ссылка на обычную практику
@@ -19,24 +20,27 @@ Claiming something is true because it's commonly practiced.
 "This bank has some problems with corruption. But there's nothing going on here that doesn't go on in all the other banks."
 "Да, у этого банка есть проблемы с коррупцией. Но мы не видим тут ничего такого, чего бы не наблюдалось и во всех остальных банках."
 
+
 - Appeal to Ignorance
 -- Аргументация незнанием
 A claim is true simply because it has not been proven false (or false because it has not been proven true).
-Утверждение, что нечто истинно, поскольку не доказано, что оно ложно (или ложно, поскольку не доказано, что оно истинно).
+Утверждение истинно только потому, что никем не опровергнуто (или ложно, поскольку никем не доказано).
 "Nobody has proved to me there is a God. So there is no God."
-"Никто не доказал мне, что есть Бог. Значит, Бога нет."
+"Никто не доказал мне, что есть Бог. Следовательно, Бога нет."
+
 
 - Appeal to Incredulity
 -- Аргументация невероятностью
 Because a claim sounds unbelievable, it must not be true.
 Поскольку утверждение звучит невероятно, оно не может быть истинным.
 "The eye is an incredibly complex biomechanical machine with thousands of interlocking parts. How could that exist without an intelligent designer?"
-"Глаз - это невероятно сложная биомеханическая машина с тысячами взаимосвязанных частей. Как это может возникнуть без разумного творца?"
+"Глаз — это невероятно сложная биомеханическая машина с тысячами взаимосвязанных частей. Как это может возникнуть без разумного творца?"
+
 
 - Appeal to Money
 -- Аргументация от денег
 Supposing that, if someone is rich or something is expensive, then it affects the truth of the claim.
-Предположение, что если кто-то богат или что-то стоит дорого, то это влияет на истинность высказывания.
+Предположение, что если некто богат или нечто стоит дорого, это влияет на истинность утверждения.
 "If it costs more, it must be better."
 "Если это стоит дороже, оно должно быть лучше."
 
@@ -50,30 +54,32 @@ Supposing something is better because it is new or newer.
 - Appeal to Popular Belief
 -- Аргументация популярностью
 Claiming something is true because the majority of people believe it.
-Утверждение, что нечто истинно, поскольку большинство людей верит в это.
+Обоснование истинности утверждения тем, что большинство людей верит в это.
 "Milk is good for your bones."
 "Молоко полезно для ваших костей."
+
 
 - Appeal to Probability
 -- Аргументация возможностью
 Assuming because something could happen, it will inevitably happen.
-Допущение, что если что-то может случиться, то оно обязательно случится.
+Допущение, что если нечто может случиться, то оно обязательно произойдет.
 "There are billions of galaxies with billions of stars in the universe. So there must be another planet with intelligent life on it."
 "Во вселенной миллиарды галактик с миллиардами звёзд в каждой. Значит где-нибудь должна быть другая планета с разумной жизнью."
 
 - Appeal to Tradition
 -- Отсылка к традиции
 Claiming something is true because it's (apparently) always been that way.
-Утверждение, что нечто правильно, поскольку это всегда происходило таким образом.
+Утверждение, что нечто правильно, поскольку это (по всей видимости) всегда было так.
 "Marriage is the union between man and woman. Therefore gay marriage is wrong."
-"Брак - это союз между мужчиной и женщиной. Значит, однополый брак - это неправильно."
+"Брак — это союз между мужчиной и женщиной. Значит, однополый брак — это плохо."
 
 - Appeal to Consequences of a Belief
 -- Апелляция к последствиям
 Arguing a belief is false because it implies something you'd rather not believe.
-Аргумент, что утверждение ложно, поскольку из него следует то, во что не хочется верить.
+Аргумент, что утверждение ложно, поскольку из него следует нечто, во что не хотелось бы верить.
 "That can't be the Senator on that sextape. If it were, he'd be lying about not knowing her. And he's not the kind of man who would lie."
-"На этом секс-видео точно не сенатор. Если бы это был действительно он, тогда его утверждения, что он не знаком с этой женщиной, оказались бы ложью. А он не из тех людей, кто будет лгать."
+"На этом секс-видео точно не сенатор. Если бы это действительно был он, тогда его утверждения, что он не знаком с этой женщиной, оказались бы ложью. А он не из тех людей, кто будет лгать."
+
 
 - Appeal to Fear
 -- Апелляция к страху
@@ -100,14 +106,16 @@ Making your claim seem more true by drawing a comparison with the "good" natural
 Attempt to induce pity to sway opponents.
 Попытка вызвать жалость, чтобы повлиять на оппонентов.
 "The former dictator is an old, dying man. It's wrong to make him stand trial for these alleged offenses."
-"Бывший диктатор - больной старик. Негуманно было бы подвергать его суду за деяния, в которых его обвиняют."
+"Бывший диктатор — больной старик. Негуманно было бы подвергать его суду за деяния, в которых его обвиняют."
+
 
 - Appeal to Ridicule
 -- Высмеивание
 Presenting the opponent's argument in a way that makes it appear absurd.
 Представление аргумента оппонента в абсурдном свете.
 "Faith in God is like believing in Santa Claus and the Tooth Fairy."
-"Верить в Бога - это всё равно что верить в Санта-Клауса и Зубную Фею."
+"Верить в Бога — это всё равно что верить в Санта-Клауса и Зубную Фею."
+
 
 - Appeal to Spite
 -- Апелляция к злобе
@@ -133,7 +141,7 @@ Suggesting a claim is true or false just because you strongly hope it is.
 - Composition
 -- Ошибка составления
 Assuming that characteristics or beliefs of some or all of a group applies to the entire group.
-Предположение, что характеристики или убеждения кого-то из группы применимы ко всей группе.
+Предположение, что характеристики или убеждения членов группы применимы ко всей группе.
 "Recent terrorist attacks have been carried out by radical Islamic groups. Therefore all terrorists are muslims."
 "Президент общества почвоведов сказал, что астрономия бесполезна. Значит, почвоведы не любят астрономов."
 
@@ -164,6 +172,7 @@ Drawing a general conclusion from a tiny sample.
 "I just cut off by the woman driver in front. Women can't drive."
 "Меня только что подрезала женщина, ехавшая передо мной. Женщины не умеют водить."
 
+
 - Jumping to Conclusions
 -- Поспешный вывод
 Drawing a quick conclusion without fairly considering relevant (and easily avaliable) evidence.
@@ -182,10 +191,11 @@ Assuming because two opposing arguments have merit, the answer must lie somewher
 - Perfectionist Fallacy
 -- Перфекционистское заблуждение
 Assuming that the only option on the table is perfect success, then rejecting anything that will not work perfectly.
-Предположить, что единственным приемлемым результатом может быть лишь идеальный вариант, и отвегнуть  все, что работает не идеально.
+Предположить, что единственным приемлемым результатом может быть лишь идеальный вариант, и отвергнуть  все, что работает не идеально.
 "What's the point of this anti-drunk driving campaign? People are still going to drink and drive no matter what."
 "Зачем нужна эта кампания против пьянства за рулём? Люди всё равно будут водить автомобили в нетрезвом виде,
 несмотря ни на что."
+
 
 - Relativist Fallacy
 -- Релятивистское заблуждение
@@ -215,7 +225,7 @@ Applying a general rule too broadly.
 Assuming because two things share a property, that makes them the same thing.
 Заявление, что если у двух вещей есть общее свойство, значит они являются одним и тем же.
 "A theory can mean an unproven idea. Scientists use the term evolutionary theory. Therefore evolution is an unproven idea."
-"Теория может означать недоказанную идею. Учёные используют термин "Теория эволюции". Значит эволюция - это недоказанная идея."
+"Теория может означать недоказанную идею. Учёные используют термин "Теория эволюции". Значит эволюция — это недоказанная идея."
 
 - Ad Hoc Rescue
 -- Спасение своего убеждения
@@ -241,9 +251,11 @@ Generalizing from an unrepresentative sample to increase the strength of your ar
 - Confirmation Bias
 -- Ошибка подтверждения
 Cherry-picking evidence that supports your idea while ignoring contradicting evidence.
-Выбор свидетельств в пользу своей идеи и игнорирование опровергающих свидетельств.
+Выбор свидетельств в пользу своей идеи при игнорировании противоречащих ей свидетельств.
 "It's obvious 9-11 was a American-government led conspiracy to justify war in Iraq and Afghanistan. No plane hit the Pentagon. The Twin Towers collapse was a controlled demolition... etc"
 "Очевидно, что теракты 11 сентября были заговором американского правительства с целью развязать войну в Ираке и Афганистане. В Пентагон не врезался самолёт. Башни-близнецы были взорваны динамитом... и т.д."
+
+
 
 - False Dilemma
 -- Мнимая дилемма
@@ -255,7 +267,7 @@ Presenting two options as the only two options while hiding alternatives.
 - Lie
 -- Ложь
 An outright untruth repeated knowingly as a fact.
-Заведомая ложь, повторяемая намеренно как факт.
+Заведомая неправда, повторяемая намеренно как факт.
 "I did not have sexual relations with that woman."
 "У меня не было секса с той женщиной."
 
@@ -273,6 +285,10 @@ Introducing irrelevant material to the argument to distract and lead towards a d
 "The Senator needn't account for irregularities in his expenses. After all, there are other senators who have done far worse things."
 "Сенатора не нужно наказывать за нецелевые расходы. В конце концов, есть другие сенаторы, которые совершали намного худшие поступки."
 
+П
+
+
+
 - Slippery Slope
 -- Наклонная плоскость
 Assuming a relatively small first step will inevitably lead to a chain of related (negative) events.
@@ -280,6 +296,7 @@ Assuming a relatively small first step will inevitably lead to a chain of relate
 последствий.
 "If we legalize marijuana, more people will start using crack and heroin. Then we'd have to legalize those too."
 "Если мы легализуем марихуану, больше людей начнут употреблять кокаин и героин. Тогда нам придётся легализовать и их тоже."
+
 
 #################### Исключено, так как сильно похоже на Begging the Question и Jumping to Conclusions
 ########## - Suppressed Evidence
@@ -294,6 +311,8 @@ Offering a claim that cannot be proven false, because there is no way to check i
 "He lied because he's possessed by demons."
 "Он лгал из-за того, что в него вселились бесы."
 
+
+
 #################### Исключено, так как сильно похоже на Cum Hoc Ergo Propter Hoc и на Denying the Antecedent
 ########## - Affirming the Consequent
 ########## -- Подтверждение консеквента
@@ -305,8 +324,8 @@ Offering a claim that cannot be proven false, because there is no way to check i
 A conclusion is derived from a premise based on the conclusion.
 Заключение, основанное на предпосылке, основанной на заключении.
 "Stripping privacy rights only matters to those with something to hide. You must have something to hide if you oppose privacy protection."
-"Права на невмешательство в частную жизнь важны только для тех, кому есть что скрывать.
-Наверняка вам есть, что скрывать, если вы выступаете в защиту прав на частную жизнь."
+"Право на невмешательство в частную жизнь важно только для тех, кому есть что скрывать.
+Наверняка вам есть, что скрывать, раз вы выступаете в защиту права на частную жизнь."
 
 - Cum Hoc Ergo Propter Hoc
 -- Корреляция есть причина
@@ -320,17 +339,17 @@ Claiming two events that occur together must have a cause-and-effect relationshi
 There isn't only one explanation for an outcome. So it's false to assume the cause based on the effect.
 Результат может иметь более одного объяснения. Поэтому неправомочно преполагать причину, основываясь на следствии.
 "If you get a degree, you'll get a good job. If you don't get a degree, you won't get a good job."
-"Если ты защитишь диплом, то найдёшь хорошую работу. Если нет - не найдёшь хорошую работу."
+"Если ты защитишь диплом, то найдёшь хорошую работу. Если нет — не найдёшь хорошую работу."
 
 - Ignoring a Common Cause
 -- Игнорирование общей причины
 Claiming one event must have caused the other when a third (unlooked for) event is probably the cause.
-Утверждение, что одно событие является причиной другого, когда на самом деле у них обоих есть общая причина.
+Утверждение, что одно событие является причиной другого, когда на самом деле у них обоих может быть общая причина.
 "We had the 60s sexual revolution, and now people are dying of AIDS."
 "В Детройте выросла преступность и упали цены на недвижимость. Преступность снижает цены домов, и если мы её победим, то цены снова вырастут."
 
 - Post Hoc Ergo Propter Hoc
--- После - значит вследствие
+-- После — значит вследствие
 Claiming that because one event followed another, it was also caused by it.
 Утверждение, что если одно событие последовало за другим, значит последующее было следствием предыдущего.
 "Since the election of the President more people than ever are unemployed. Therefore the President has damaged the economy."
@@ -341,7 +360,7 @@ Claiming that because one event followed another, it was also caused by it.
 Assuming that if one wrong is committed, another wrong will cancel it out.
 Заявление, что одно зло может скомпенсировать другое зло.
 "Sure - the conditions in this prison are cruel and dehumanising. But these inmates are criminals!"
-"Условия в этой тюрьме жестокие и негуманные. Но ведь заключённые - преступники!"
+"Условия в этой тюрьме жестокие и негуманные. Но ведь заключённые — преступники!"
 
 - Ad Hominem
 -- Переход на личности
@@ -352,8 +371,8 @@ Bypassing the argument by launching an irrelevant attack on the person and not t
 
 - Burden of Proof
 -- Бремя доказательства
-I don't need to prove my claim - you must prove it is false.
-Утверждение, что автор не должен доказывать своё утверждение, это его оппонент должен доказать, то оно ложно.
+I don't need to prove my claim — you must prove it is false.
+Я не обязан обосновывать свой аргумент, это вы должны опровергнуть его.
 "I maintain long-term solar cycles are the cause of global warming. Show me I'm wrong."
 "Я утверждаю, что долгосрочные циклы солнечной активности являются причиной глобального потепления. Докажи, что это не так."
 
