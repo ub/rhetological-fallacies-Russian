@@ -285,10 +285,6 @@ Introducing irrelevant material to the argument to distract and lead towards a d
 "The Senator needn't account for irregularities in his expenses. After all, there are other senators who have done far worse things."
 "Сенатора не нужно наказывать за нецелевые расходы. В конце концов, есть другие сенаторы, которые совершали намного худшие поступки."
 
-П
-
-
-
 - Slippery Slope
 -- Наклонная плоскость
 Assuming a relatively small first step will inevitably lead to a chain of related (negative) events.
