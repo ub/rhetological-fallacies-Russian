@@ -279,7 +279,7 @@ Describing an occurrence in vivid detail, even if it is a rare occurrence, to co
 "На туриста в Египте напала ужасная гигантская акула и откусила ему ногу! И это на глазах у тысячи людей, которые видели всё это и ничем не могли помочь! Как мы можем себе позволить пускать туристов в такие жуткие места?"
 
 - Red Herring
--- Отвлекающий манёвр
+-- Ложный след 
 Introducing irrelevant material to the argument to distract and lead towards a different conclusion.
 Предоставление нерелевантного материала в споре, чтобы отвлечь и подтолкнуть оппонента к другому заключению.
 "The Senator needn't account for irregularities in his expenses. After all, there are other senators who have done far worse things."
